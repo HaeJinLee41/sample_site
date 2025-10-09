@@ -399,7 +399,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-my-journal-paper-calibration-discrepancy-predicts-students-subsequent-metacognitive-strategy-use-in-computer-based-learning-has-been-accepted-to-the-international-journal-of-artificial-intelligence-in-education",
+          section: "News",},{id: "news-my-journal-paper-calibration-discrepancy-predicts-students-subsequent-metacognitive-strategy-use-in-computer-based-learning-has-been-accepted-to-the-international-journal-of-artificial-intelligence-in-education-international-journal-of-artificial-intelligence-in-education-hj",
           title: 'My journal paper, “Calibration discrepancy predicts students’ subsequent metacognitive strategy use in computer-based...',
           description: "",
           section: "News",},{id: "projects-project-1",
