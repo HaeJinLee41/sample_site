@@ -391,13 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/sample_site/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/sample_site/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-gave-a-talk-on-human-centered-explainable-ai-to-support-metacognitive-strategies-in-computer-based-learning-environments-at-cstl-seminar-at-the-department-of-educational-psychology-at-uiuc",
+          title: 'I gave a talk on “Human-centered explainable AI to support metacognitive strategies in...',
           description: "",
           section: "News",},{id: "news-my-journal-paper-calibration-discrepancy-predicts-students-subsequent-metacognitive-strategy-use-in-computer-based-learning-has-been-accepted-to-the-international-journal-of-artificial-intelligence-in-education",
           title: 'My journal paper, “Calibration discrepancy predicts students’ subsequent metacognitive strategy use in computer-based...',
