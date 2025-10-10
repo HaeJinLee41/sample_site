@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/sample_site/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-learning-behaviors-mediate-the-effect-of-ai-powered-support-for-metacognitive-calibration-on-learning-outcomes-received-a-best-paper-honorable-mention-award-at-chi-2025",
+          title: 'Our paper, Learning behaviors mediate the effect of AI-powered support for metacognitive calibration...',
           description: "",
           section: "News",},{id: "news-my-journal-paper-calibration-discrepancy-predicts-students-subsequent-metacognitive-strategy-use-in-computer-based-learning-has-been-accepted-to-the-international-journal-of-artificial-intelligence-in-education",
           title: 'My journal paper, “Calibration discrepancy predicts students’ subsequent metacognitive strategy use in computer-based...',
